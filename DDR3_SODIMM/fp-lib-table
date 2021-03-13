@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name DDR3_SODIMM)(type KiCad)(uri ${KIPRJMOD}/DDR3_SODIMM.pretty)(options "")(descr ""))
+)
