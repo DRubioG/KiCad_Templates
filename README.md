@@ -12,3 +12,9 @@
 ![DDR4_SODIMM](3D_DDR4_SODIMM.png)
 ### Board
 ![DDR4_SODIMM](DDR4_SODIMM/meta/brd.png)
+
+## [DDR3_UDIMM](/DDR3_UDIMM)
+### 3D
+![DDR3_UDIMM](3D_DDR3_UDIMM.png)
+### Board
+![DDR3_UDIMM](DDR3_UDIMM/meta/brd.png)

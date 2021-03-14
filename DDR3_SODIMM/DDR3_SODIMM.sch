@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:DDR3_SODIMM-cache
 EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
@@ -2261,10 +2260,6 @@ Text GLabel 15500 8900 2    50   Input ~ 0
 SA1
 Text GLabel 15500 9000 2    50   Input ~ 0
 SA2
-Text GLabel 15500 9150 2    50   Input ~ 0
-EVENT_n
-Wire Wire Line
-	15500 9150 15250 9150
 Wire Wire Line
 	15250 9000 15500 9000
 Wire Wire Line
@@ -2282,4 +2277,5 @@ Wire Notes Line
 	12800 7600 12800 9850
 Text Notes 14250 7900 2    118  ~ 24
 TEMPERATURE
+NoConn ~ 15250 9150
 $EndSCHEMATC
