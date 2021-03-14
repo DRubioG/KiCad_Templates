@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ddr4_udimm)(type Legacy)(uri ${KIPRJMOD}/ddr4_udimm.lib)(options "")(descr ""))
+)

@@ -1,0 +1,2739 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	9150 1150 9350 1150
+Wire Wire Line
+	9150 1250 9350 1250
+Wire Wire Line
+	9150 4600 9350 4600
+Wire Wire Line
+	7700 1450 7500 1450
+Wire Wire Line
+	4150 4650 3950 4650
+Wire Wire Line
+	4150 5050 3950 5050
+Wire Wire Line
+	4150 4950 3950 4950
+Wire Wire Line
+	9150 4150 9350 4150
+Wire Wire Line
+	3950 3850 4150 3850
+Wire Wire Line
+	3950 4050 4150 4050
+Wire Wire Line
+	3950 4150 4150 4150
+Wire Wire Line
+	3950 4350 4150 4350
+Wire Wire Line
+	3950 4750 4150 4750
+Wire Wire Line
+	7500 4000 7700 4000
+Wire Wire Line
+	9350 4450 9150 4450
+Wire Wire Line
+	9150 950  9350 950 
+Wire Wire Line
+	9150 1050 9350 1050
+Wire Wire Line
+	7700 4450 7500 4450
+Wire Wire Line
+	4150 3650 3950 3650
+Wire Wire Line
+	7700 1350 7500 1350
+Wire Wire Line
+	4150 5250 3950 5250
+Wire Wire Line
+	9150 3350 9350 3350
+Wire Wire Line
+	4150 5150 3950 5150
+Wire Wire Line
+	7700 1000 7500 1000
+Wire Wire Line
+	7700 1100 7500 1100
+Wire Wire Line
+	9150 3950 9350 3950
+Wire Wire Line
+	9150 4050 9350 4050
+Wire Wire Line
+	7700 2650 7500 2650
+Wire Wire Line
+	3950 3750 4150 3750
+Wire Wire Line
+	3950 3950 4150 3950
+Wire Wire Line
+	3950 4250 4150 4250
+Wire Wire Line
+	3950 4450 4150 4450
+Wire Wire Line
+	3950 4550 4150 4550
+Wire Wire Line
+	3950 4850 4150 4850
+Wire Wire Line
+	9350 4350 9150 4350
+Wire Wire Line
+	7700 4350 7500 4350
+Wire Wire Line
+	9350 3650 9150 3650
+Wire Wire Line
+	7500 4100 7700 4100
+Text GLabel 3950 3850 0    50   Input ~ 0
+A2
+Text GLabel 7500 2650 0    50   Input ~ 0
+SCL
+Text GLabel 9350 4050 2    50   Input ~ 0
+SA1
+Text GLabel 9350 3950 2    50   Input ~ 0
+SA0
+Text GLabel 6050 7250 2    50   Input ~ 0
+DQ58
+Text GLabel 6050 7650 2    50   Input ~ 0
+DQ62
+Text GLabel 7200 3650 0    50   Input ~ 0
+DM7_n-DBI7_n
+Text GLabel 6050 7050 2    50   Input ~ 0
+DQ56
+Text GLabel 6050 7450 2    50   Input ~ 0
+DQ60
+Text GLabel 6050 6450 2    50   Input ~ 0
+DQ50
+Text GLabel 6050 6850 2    50   Input ~ 0
+DQ54
+Text GLabel 7200 3550 0    50   Input ~ 0
+DM6_n-DBI6_n
+Text GLabel 6050 6250 2    50   Input ~ 0
+DQ48
+Text GLabel 6050 6650 2    50   Input ~ 0
+DQ52
+Text GLabel 6050 5650 2    50   Input ~ 0
+DQ42
+Text GLabel 6050 6050 2    50   Input ~ 0
+DQ46
+Text GLabel 7200 3450 0    50   Input ~ 0
+DM5_n-DBI5_n
+Text GLabel 6050 5450 2    50   Input ~ 0
+DQ40
+Text GLabel 6050 5850 2    50   Input ~ 0
+DQ44
+Text GLabel 6050 4850 2    50   Input ~ 0
+DQ34
+Text GLabel 6050 5250 2    50   Input ~ 0
+DQ38
+Text GLabel 7200 3350 0    50   Input ~ 0
+DM4_n-DBI4_n
+Text GLabel 6050 4650 2    50   Input ~ 0
+DQ32
+Text GLabel 6050 5050 2    50   Input ~ 0
+DQ36
+Text GLabel 7500 1100 0    50   Input ~ 0
+ODT1_n,NC
+Text GLabel 7500 1000 0    50   Input ~ 0
+ODT0
+Text GLabel 3950 5150 0    50   Input ~ 0
+CAS_n-A15
+Text GLabel 3950 5250 0    50   Input ~ 0
+RAS_n-A16
+Text GLabel 7500 1350 0    50   Input ~ 0
+BA0
+Text GLabel 3950 3650 0    50   Input ~ 0
+A0
+Text GLabel 7500 4450 0    50   Input ~ 0
+EVENT_n
+Text GLabel 9350 1050 2    50   Input ~ 0
+CK0_c
+Text GLabel 9350 950  2    50   Input ~ 0
+CK0_t
+Text GLabel 6050 7350 2    50   Input ~ 0
+DQ59
+Text GLabel 6050 7750 2    50   Input ~ 0
+DQ63
+Text GLabel 9650 2950 2    50   Input ~ 0
+DQS7_t
+Text GLabel 9650 2850 2    50   Input ~ 0
+DQS7_c
+Text GLabel 6050 7150 2    50   Input ~ 0
+DQ57
+Text GLabel 6050 7550 2    50   Input ~ 0
+DQ61
+Text GLabel 6050 6550 2    50   Input ~ 0
+DQ51
+Text GLabel 6050 6950 2    50   Input ~ 0
+DQ55
+Text GLabel 9650 2750 2    50   Input ~ 0
+DQS6_t
+Text GLabel 9650 2650 2    50   Input ~ 0
+DQS6_c
+Text GLabel 6050 6350 2    50   Input ~ 0
+DQ49
+Text GLabel 6050 6750 2    50   Input ~ 0
+DQ53
+Text GLabel 6050 5750 2    50   Input ~ 0
+DQ43
+Text GLabel 6050 6150 2    50   Input ~ 0
+DQ47
+Text GLabel 9650 2550 2    50   Input ~ 0
+DQS5_t
+Text GLabel 9650 2450 2    50   Input ~ 0
+DQS5_c
+Text GLabel 6050 5550 2    50   Input ~ 0
+DQ41
+Text GLabel 6050 5950 2    50   Input ~ 0
+DQ45
+Text GLabel 6050 4950 2    50   Input ~ 0
+DQ35
+Text GLabel 6050 5350 2    50   Input ~ 0
+DQ39
+Text GLabel 9650 2350 2    50   Input ~ 0
+DQS4_t
+Text GLabel 9650 2250 2    50   Input ~ 0
+DQS4_c
+Text GLabel 6050 4750 2    50   Input ~ 0
+DQ33
+Text GLabel 6050 5150 2    50   Input ~ 0
+DQ37
+Text GLabel 9350 4150 2    50   Input ~ 0
+SA2
+Text GLabel 3950 4950 0    50   Input ~ 0
+A13
+Text GLabel 3950 5050 0    50   Input ~ 0
+WE_n-A14
+Text GLabel 7500 1450 0    50   Input ~ 0
+BA1
+Text GLabel 9350 4600 2    50   Input ~ 0
+PAR
+Text GLabel 9350 1250 2    50   Input ~ 0
+CK1_c
+Text GLabel 9350 1150 2    50   Input ~ 0
+CK1_t
+Text GLabel 3950 4050 0    50   Input ~ 0
+A4
+Text GLabel 3950 4150 0    50   Input ~ 0
+A5
+Text GLabel 3950 4350 0    50   Input ~ 0
+A7
+Text GLabel 3950 4750 0    50   Input ~ 0
+A11
+Text GLabel 7500 4000 0    50   Input ~ 0
+ALERT_n
+Text GLabel 9350 4450 2    50   Input ~ 0
+BG1
+Text GLabel 7200 2000 0    50   Input ~ 0
+CB3
+Text GLabel 7200 2400 0    50   Input ~ 0
+CB7
+Text GLabel 9650 3150 2    50   Input ~ 0
+DQS8_t
+Text GLabel 9650 3050 2    50   Input ~ 0
+DQS8_c
+Text GLabel 7200 1800 0    50   Input ~ 0
+CB1
+Text GLabel 6050 4150 2    50   Input ~ 0
+DQ27
+Text GLabel 6050 4550 2    50   Input ~ 0
+DQ31
+Text GLabel 9650 2150 2    50   Input ~ 0
+DQS3_t
+Text GLabel 9650 2050 2    50   Input ~ 0
+DQS3_c
+Text GLabel 6050 3950 2    50   Input ~ 0
+DQ25
+Text GLabel 6050 4350 2    50   Input ~ 0
+DQ29
+Text GLabel 6050 3350 2    50   Input ~ 0
+DQ19
+Text GLabel 6050 3750 2    50   Input ~ 0
+DQ23
+Text GLabel 9650 1950 2    50   Input ~ 0
+DQS2_t
+Text GLabel 9650 1850 2    50   Input ~ 0
+DQS2_c
+Text GLabel 6050 3150 2    50   Input ~ 0
+DQ17
+Text GLabel 6050 3550 2    50   Input ~ 0
+DQ21
+Text GLabel 6050 2550 2    50   Input ~ 0
+DQ11
+Text GLabel 6050 2950 2    50   Input ~ 0
+DQ15
+Text GLabel 9650 1750 2    50   Input ~ 0
+DQS1_t
+Text GLabel 9650 1650 2    50   Input ~ 0
+DQS1_c
+Text GLabel 6050 2350 2    50   Input ~ 0
+DQ9
+Text GLabel 6050 2750 2    50   Input ~ 0
+DQ13
+Text GLabel 6050 1750 2    50   Input ~ 0
+DQ3
+Text GLabel 6050 2150 2    50   Input ~ 0
+DQ7
+Text GLabel 9650 1550 2    50   Input ~ 0
+DQS0_t
+Text GLabel 9650 1450 2    50   Input ~ 0
+DQS0_c
+Text GLabel 6050 1550 2    50   Input ~ 0
+DQ1
+Text GLabel 6050 1950 2    50   Input ~ 0
+DQ5
+Text GLabel 3950 3750 0    50   Input ~ 0
+A1
+Text GLabel 3950 3950 0    50   Input ~ 0
+A3
+Text GLabel 3950 4250 0    50   Input ~ 0
+A6
+Text GLabel 3950 4450 0    50   Input ~ 0
+A8
+Text GLabel 3950 4550 0    50   Input ~ 0
+A9
+Text GLabel 3950 4850 0    50   Input ~ 0
+A12-BC_n
+Text GLabel 9350 4350 2    50   Input ~ 0
+BG0
+Text GLabel 9350 3650 2    50   Input ~ 0
+CKE0
+Text GLabel 7500 4100 0    50   Input ~ 0
+RESET_n
+Text GLabel 7200 1900 0    50   Input ~ 0
+CB2
+Text GLabel 7200 2300 0    50   Input ~ 0
+CB6
+Text GLabel 7200 3750 0    50   Input ~ 0
+DM8_n-DBI8_n
+Text GLabel 7200 1700 0    50   Input ~ 0
+CB0
+Text GLabel 7200 2100 0    50   Input ~ 0
+CB4
+Text GLabel 6050 4050 2    50   Input ~ 0
+DQ26
+Text GLabel 6050 4450 2    50   Input ~ 0
+DQ30
+Text GLabel 7200 3250 0    50   Input ~ 0
+DM3_n-DBI3_n
+Text GLabel 6050 3850 2    50   Input ~ 0
+DQ24
+Text GLabel 6050 3250 2    50   Input ~ 0
+DQ18
+Text GLabel 6050 3650 2    50   Input ~ 0
+DQ22
+Text GLabel 7200 3150 0    50   Input ~ 0
+DM2_n-DBI2_n
+Text GLabel 6050 3050 2    50   Input ~ 0
+DQ16
+Text GLabel 6050 3450 2    50   Input ~ 0
+DQ20
+Text GLabel 6050 2450 2    50   Input ~ 0
+DQ10
+Text GLabel 6050 2850 2    50   Input ~ 0
+DQ14
+Text GLabel 7200 3050 0    50   Input ~ 0
+DMI_n-DBI1_n
+Text GLabel 6050 2250 2    50   Input ~ 0
+DQ8
+Text GLabel 6050 2650 2    50   Input ~ 0
+DQ12
+Text GLabel 6050 1650 2    50   Input ~ 0
+DQ2
+Text GLabel 6050 2050 2    50   Input ~ 0
+DQ6
+Text GLabel 7200 2950 0    50   Input ~ 0
+DM0_n-DBIO_n
+Text GLabel 6050 1450 2    50   Input ~ 0
+DQ0
+Text GLabel 6050 1850 2    50   Input ~ 0
+DQ4
+$Comp
+L ddr4_udimm:DDR4_UDIMM U1
+U 1 1 6159D00D
+P 2050 4300
+AR Path="/6159D00D" Ref="U1"  Part="1" 
+AR Path="/614EDC81/6159D00D" Ref="U1"  Part="1" 
+AR Path="/6161A96E/6159D00D" Ref="U?"  Part="1" 
+F 0 "U1" H 2075 8015 50  0000 C CNN
+F 1 "DDR4_Front" H 2075 7924 50  0000 C CNN
+F 2 "DDR4_UDIMM:DDR4_UDIMM" H 3650 8250 50  0001 C CNN
+F 3 "" H 3650 8250 50  0001 C CNN
+	1    2050 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1400 1000 1300 1000
+Wire Wire Line
+	1300 5600 1400 5600
+Wire Wire Line
+	1400 5500 1300 5500
+Connection ~ 1300 5500
+Wire Wire Line
+	1300 5500 1300 5600
+Wire Wire Line
+	1400 5400 1300 5400
+Connection ~ 1300 5400
+Wire Wire Line
+	1300 5400 1300 5500
+Wire Wire Line
+	1400 5300 1300 5300
+Connection ~ 1300 5300
+Wire Wire Line
+	1300 5300 1300 5400
+Wire Wire Line
+	1400 5200 1300 5200
+Connection ~ 1300 5200
+Wire Wire Line
+	1300 5200 1300 5300
+Wire Wire Line
+	1400 5100 1300 5100
+Connection ~ 1300 5100
+Wire Wire Line
+	1300 5100 1300 5200
+Wire Wire Line
+	1400 5000 1300 5000
+Connection ~ 1300 5000
+Wire Wire Line
+	1300 5000 1300 5100
+Wire Wire Line
+	1400 4900 1300 4900
+Connection ~ 1300 4900
+Wire Wire Line
+	1300 4900 1300 5000
+Wire Wire Line
+	1400 4800 1300 4800
+Connection ~ 1300 4800
+Wire Wire Line
+	1300 4800 1300 4900
+Wire Wire Line
+	1400 4700 1300 4700
+Connection ~ 1300 4700
+Wire Wire Line
+	1300 4700 1300 4800
+Wire Wire Line
+	1400 4600 1300 4600
+Connection ~ 1300 4600
+Wire Wire Line
+	1300 4600 1300 4700
+Wire Wire Line
+	1400 4500 1300 4500
+Connection ~ 1300 4500
+Wire Wire Line
+	1300 4500 1300 4600
+Wire Wire Line
+	1400 4400 1300 4400
+Connection ~ 1300 4400
+Wire Wire Line
+	1300 4400 1300 4500
+Wire Wire Line
+	1400 4300 1300 4300
+Connection ~ 1300 4300
+Wire Wire Line
+	1300 4300 1300 4400
+Wire Wire Line
+	1400 4200 1300 4200
+Connection ~ 1300 4200
+Wire Wire Line
+	1300 4200 1300 4300
+Wire Wire Line
+	1400 4100 1300 4100
+Connection ~ 1300 4100
+Wire Wire Line
+	1300 4100 1300 4200
+Wire Wire Line
+	1400 4000 1300 4000
+Connection ~ 1300 4000
+Wire Wire Line
+	1300 4000 1300 4100
+Wire Wire Line
+	1400 3900 1300 3900
+Wire Wire Line
+	1300 1000 1300 1100
+Connection ~ 1300 3900
+Wire Wire Line
+	1300 3900 1300 4000
+Wire Wire Line
+	1400 3800 1300 3800
+Connection ~ 1300 3800
+Wire Wire Line
+	1300 3800 1300 3900
+Wire Wire Line
+	1400 3700 1300 3700
+Connection ~ 1300 3700
+Wire Wire Line
+	1300 3700 1300 3800
+Wire Wire Line
+	1400 3600 1300 3600
+Connection ~ 1300 3600
+Wire Wire Line
+	1300 3600 1300 3700
+Wire Wire Line
+	1400 3500 1300 3500
+Connection ~ 1300 3500
+Wire Wire Line
+	1300 3500 1300 3600
+Wire Wire Line
+	1400 3400 1300 3400
+Connection ~ 1300 3400
+Wire Wire Line
+	1300 3400 1300 3500
+Wire Wire Line
+	1400 3300 1300 3300
+Connection ~ 1300 3300
+Wire Wire Line
+	1300 3300 1300 3400
+Wire Wire Line
+	1400 3200 1300 3200
+Connection ~ 1300 3200
+Wire Wire Line
+	1300 3200 1300 3300
+Wire Wire Line
+	1400 3100 1300 3100
+Connection ~ 1300 3100
+Wire Wire Line
+	1300 3100 1300 3200
+Wire Wire Line
+	1400 3000 1300 3000
+Connection ~ 1300 3000
+Wire Wire Line
+	1300 3000 1300 3100
+Wire Wire Line
+	1400 2900 1300 2900
+Connection ~ 1300 2900
+Wire Wire Line
+	1300 2900 1300 3000
+Wire Wire Line
+	1400 2800 1300 2800
+Connection ~ 1300 2800
+Wire Wire Line
+	1300 2800 1300 2900
+Wire Wire Line
+	1400 2700 1300 2700
+Connection ~ 1300 2700
+Wire Wire Line
+	1300 2700 1300 2800
+Wire Wire Line
+	1400 2600 1300 2600
+Connection ~ 1300 2600
+Wire Wire Line
+	1300 2600 1300 2700
+Wire Wire Line
+	1400 2500 1300 2500
+Connection ~ 1300 2500
+Wire Wire Line
+	1300 2500 1300 2600
+Wire Wire Line
+	1400 2400 1300 2400
+Connection ~ 1300 2400
+Wire Wire Line
+	1300 2400 1300 2500
+Wire Wire Line
+	1400 2300 1300 2300
+Connection ~ 1300 2300
+Wire Wire Line
+	1300 2300 1300 2400
+Wire Wire Line
+	1400 2200 1300 2200
+Connection ~ 1300 2200
+Wire Wire Line
+	1300 2200 1300 2300
+Wire Wire Line
+	1400 2100 1300 2100
+Connection ~ 1300 2100
+Wire Wire Line
+	1300 2100 1300 2200
+Wire Wire Line
+	1400 2000 1300 2000
+Connection ~ 1300 2000
+Wire Wire Line
+	1300 2000 1300 2100
+Wire Wire Line
+	1400 1900 1300 1900
+Connection ~ 1300 1900
+Wire Wire Line
+	1300 1900 1300 2000
+Wire Wire Line
+	1400 1800 1300 1800
+Connection ~ 1300 1800
+Wire Wire Line
+	1300 1800 1300 1900
+Wire Wire Line
+	1400 1700 1300 1700
+Connection ~ 1300 1700
+Wire Wire Line
+	1300 1700 1300 1800
+Wire Wire Line
+	1400 1600 1300 1600
+Connection ~ 1300 1600
+Wire Wire Line
+	1300 1600 1300 1700
+Wire Wire Line
+	1400 1500 1300 1500
+Connection ~ 1300 1500
+Wire Wire Line
+	1300 1500 1300 1600
+Wire Wire Line
+	1400 1400 1300 1400
+Connection ~ 1300 1400
+Wire Wire Line
+	1300 1400 1300 1500
+Wire Wire Line
+	1400 1300 1300 1300
+Connection ~ 1300 1300
+Wire Wire Line
+	1300 1300 1300 1400
+Wire Wire Line
+	1400 1200 1300 1200
+Connection ~ 1300 1200
+Wire Wire Line
+	1300 1200 1300 1300
+Wire Wire Line
+	1400 1100 1300 1100
+Connection ~ 1300 1100
+Wire Wire Line
+	1300 1100 1300 1200
+Wire Wire Line
+	2650 1000 2750 1000
+Wire Wire Line
+	2750 1000 2750 1100
+Wire Wire Line
+	2750 5600 2650 5600
+Wire Wire Line
+	2650 5500 2750 5500
+Connection ~ 2750 5500
+Wire Wire Line
+	2750 5500 2750 5600
+Wire Wire Line
+	2650 5400 2750 5400
+Connection ~ 2750 5400
+Wire Wire Line
+	2750 5400 2750 5500
+Wire Wire Line
+	2650 5300 2750 5300
+Connection ~ 2750 5300
+Wire Wire Line
+	2750 5300 2750 5400
+Wire Wire Line
+	2650 5200 2750 5200
+Connection ~ 2750 5200
+Wire Wire Line
+	2750 5200 2750 5300
+Wire Wire Line
+	2650 5100 2750 5100
+Connection ~ 2750 5100
+Wire Wire Line
+	2750 5100 2750 5200
+Wire Wire Line
+	2650 5000 2750 5000
+Connection ~ 2750 5000
+Wire Wire Line
+	2750 5000 2750 5100
+Wire Wire Line
+	2650 4900 2750 4900
+Connection ~ 2750 4900
+Wire Wire Line
+	2750 4900 2750 5000
+Wire Wire Line
+	2650 4800 2750 4800
+Connection ~ 2750 4800
+Wire Wire Line
+	2750 4800 2750 4900
+Wire Wire Line
+	2650 4700 2750 4700
+Connection ~ 2750 4700
+Wire Wire Line
+	2750 4700 2750 4800
+Wire Wire Line
+	2650 4600 2750 4600
+Connection ~ 2750 4600
+Wire Wire Line
+	2750 4600 2750 4700
+Wire Wire Line
+	2650 4500 2750 4500
+Connection ~ 2750 4500
+Wire Wire Line
+	2750 4500 2750 4600
+Wire Wire Line
+	2650 4400 2750 4400
+Connection ~ 2750 4400
+Wire Wire Line
+	2750 4400 2750 4500
+Wire Wire Line
+	2650 4300 2750 4300
+Connection ~ 2750 4300
+Wire Wire Line
+	2750 4300 2750 4400
+Wire Wire Line
+	2650 4200 2750 4200
+Connection ~ 2750 4200
+Wire Wire Line
+	2750 4200 2750 4300
+Wire Wire Line
+	2650 4100 2750 4100
+Connection ~ 2750 4100
+Wire Wire Line
+	2750 4100 2750 4200
+Wire Wire Line
+	2650 4000 2750 4000
+Connection ~ 2750 4000
+Wire Wire Line
+	2750 4000 2750 4100
+Wire Wire Line
+	2650 3900 2750 3900
+Connection ~ 2750 3900
+Wire Wire Line
+	2750 3900 2750 4000
+Wire Wire Line
+	2650 3800 2750 3800
+Connection ~ 2750 3800
+Wire Wire Line
+	2750 3800 2750 3900
+Wire Wire Line
+	2650 3700 2750 3700
+Connection ~ 2750 3700
+Wire Wire Line
+	2750 3700 2750 3800
+Wire Wire Line
+	2650 3600 2750 3600
+Connection ~ 2750 3600
+Wire Wire Line
+	2750 3600 2750 3700
+Wire Wire Line
+	2650 3500 2750 3500
+Connection ~ 2750 3500
+Wire Wire Line
+	2750 3500 2750 3600
+Wire Wire Line
+	2650 3400 2750 3400
+Connection ~ 2750 3400
+Wire Wire Line
+	2750 3400 2750 3500
+Wire Wire Line
+	2650 3300 2750 3300
+Connection ~ 2750 3300
+Wire Wire Line
+	2750 3300 2750 3400
+Wire Wire Line
+	2650 3200 2750 3200
+Connection ~ 2750 3200
+Wire Wire Line
+	2750 3200 2750 3300
+Wire Wire Line
+	2650 3100 2750 3100
+Connection ~ 2750 3100
+Wire Wire Line
+	2750 3100 2750 3200
+Wire Wire Line
+	2650 3000 2750 3000
+Connection ~ 2750 3000
+Wire Wire Line
+	2750 3000 2750 3100
+Wire Wire Line
+	2650 2900 2750 2900
+Connection ~ 2750 2900
+Wire Wire Line
+	2750 2900 2750 3000
+Wire Wire Line
+	2650 2800 2750 2800
+Connection ~ 2750 2800
+Wire Wire Line
+	2750 2800 2750 2900
+Wire Wire Line
+	2650 2700 2750 2700
+Connection ~ 2750 2700
+Wire Wire Line
+	2750 2700 2750 2800
+Connection ~ 2750 2600
+Wire Wire Line
+	2750 2600 2750 2700
+Wire Wire Line
+	2650 2600 2750 2600
+Wire Wire Line
+	2650 2500 2750 2500
+Connection ~ 2750 2500
+Wire Wire Line
+	2750 2500 2750 2600
+Wire Wire Line
+	2650 2400 2750 2400
+Connection ~ 2750 2400
+Wire Wire Line
+	2750 2400 2750 2500
+Wire Wire Line
+	2650 2300 2750 2300
+Connection ~ 2750 2300
+Wire Wire Line
+	2750 2300 2750 2400
+Wire Wire Line
+	2650 2200 2750 2200
+Connection ~ 2750 2200
+Wire Wire Line
+	2750 2200 2750 2300
+Wire Wire Line
+	2650 2100 2750 2100
+Connection ~ 2750 2100
+Wire Wire Line
+	2750 2100 2750 2200
+Wire Wire Line
+	2650 2000 2750 2000
+Connection ~ 2750 2000
+Wire Wire Line
+	2750 2000 2750 2100
+Wire Wire Line
+	2650 1900 2750 1900
+Connection ~ 2750 1900
+Wire Wire Line
+	2750 1900 2750 2000
+Wire Wire Line
+	2650 1800 2750 1800
+Connection ~ 2750 1800
+Wire Wire Line
+	2750 1800 2750 1900
+Wire Wire Line
+	2650 1700 2750 1700
+Connection ~ 2750 1700
+Wire Wire Line
+	2750 1700 2750 1800
+Wire Wire Line
+	2650 1600 2750 1600
+Connection ~ 2750 1600
+Wire Wire Line
+	2750 1600 2750 1700
+Wire Wire Line
+	2650 1500 2750 1500
+Connection ~ 2750 1500
+Wire Wire Line
+	2750 1500 2750 1600
+Wire Wire Line
+	2650 1400 2750 1400
+Connection ~ 2750 1400
+Wire Wire Line
+	2750 1400 2750 1500
+Wire Wire Line
+	2650 1300 2750 1300
+Connection ~ 2750 1300
+Wire Wire Line
+	2750 1300 2750 1400
+Wire Wire Line
+	2650 1200 2750 1200
+Connection ~ 2750 1200
+Wire Wire Line
+	2750 1200 2750 1300
+Wire Wire Line
+	2650 1100 2750 1100
+Connection ~ 2750 1100
+Wire Wire Line
+	2750 1100 2750 1200
+Wire Wire Line
+	3100 3600 2750 3600
+Wire Wire Line
+	1000 6000 1300 6000
+Wire Wire Line
+	1300 6000 1300 5950
+Wire Wire Line
+	1300 5950 1400 5950
+Wire Wire Line
+	1400 6050 1300 6050
+Wire Wire Line
+	1300 6050 1300 6000
+Connection ~ 1300 6000
+Wire Wire Line
+	1000 6550 1300 6550
+Wire Wire Line
+	1300 6550 1300 6450
+Wire Wire Line
+	1300 6350 1400 6350
+Wire Wire Line
+	1300 6550 1300 6650
+Wire Wire Line
+	1300 6750 1400 6750
+Connection ~ 1300 6550
+Wire Wire Line
+	1400 6650 1300 6650
+Connection ~ 1300 6650
+Wire Wire Line
+	1300 6650 1300 6750
+Wire Wire Line
+	1400 6550 1300 6550
+Wire Wire Line
+	1400 6450 1300 6450
+Connection ~ 1300 6450
+Wire Wire Line
+	1300 6450 1300 6350
+Wire Wire Line
+	2650 5800 2750 5800
+Wire Wire Line
+	2750 8300 2650 8300
+Wire Wire Line
+	3200 6950 2750 6950
+Wire Wire Line
+	2750 5800 2750 5900
+Connection ~ 2750 6950
+Wire Wire Line
+	2650 5900 2750 5900
+Connection ~ 2750 5900
+Wire Wire Line
+	2750 5900 2750 6000
+Wire Wire Line
+	2650 6000 2750 6000
+Connection ~ 2750 6000
+Wire Wire Line
+	2750 6000 2750 6100
+Wire Wire Line
+	2650 6100 2750 6100
+Connection ~ 2750 6100
+Wire Wire Line
+	2750 6100 2750 6200
+Wire Wire Line
+	2650 6200 2750 6200
+Connection ~ 2750 6200
+Wire Wire Line
+	2750 6200 2750 6300
+Wire Wire Line
+	2650 6300 2750 6300
+Connection ~ 2750 6300
+Wire Wire Line
+	2750 6300 2750 6400
+Wire Wire Line
+	2650 6400 2750 6400
+Connection ~ 2750 6400
+Wire Wire Line
+	2750 6400 2750 6500
+Wire Wire Line
+	2650 6500 2750 6500
+Connection ~ 2750 6500
+Wire Wire Line
+	2750 6500 2750 6600
+Wire Wire Line
+	2650 6600 2750 6600
+Connection ~ 2750 6600
+Wire Wire Line
+	2750 6600 2750 6700
+Wire Wire Line
+	2650 6700 2750 6700
+Connection ~ 2750 6700
+Wire Wire Line
+	2650 6800 2750 6800
+Wire Wire Line
+	2750 6700 2750 6800
+Connection ~ 2750 6800
+Wire Wire Line
+	2750 6800 2750 6900
+Wire Wire Line
+	2650 6900 2750 6900
+Connection ~ 2750 6900
+Wire Wire Line
+	2750 6900 2750 6950
+Wire Wire Line
+	2650 7000 2750 7000
+Wire Wire Line
+	2750 6950 2750 7000
+Connection ~ 2750 7000
+Wire Wire Line
+	2750 7000 2750 7100
+Wire Wire Line
+	2650 7100 2750 7100
+Connection ~ 2750 7100
+Wire Wire Line
+	2750 7100 2750 7200
+Wire Wire Line
+	2650 7200 2750 7200
+Connection ~ 2750 7200
+Wire Wire Line
+	2650 7300 2750 7300
+Wire Wire Line
+	2750 7200 2750 7300
+Connection ~ 2750 7300
+Wire Wire Line
+	2750 7300 2750 7400
+Wire Wire Line
+	2650 7400 2750 7400
+Connection ~ 2750 7400
+Wire Wire Line
+	2750 7400 2750 7500
+Wire Wire Line
+	2650 7500 2750 7500
+Connection ~ 2750 7500
+Wire Wire Line
+	2750 7500 2750 7600
+Wire Wire Line
+	2650 7600 2750 7600
+Connection ~ 2750 7600
+Wire Wire Line
+	2750 7600 2750 7700
+Wire Wire Line
+	2650 7700 2750 7700
+Connection ~ 2750 7700
+Wire Wire Line
+	2750 7700 2750 7800
+Wire Wire Line
+	2650 7800 2750 7800
+Connection ~ 2750 7800
+Wire Wire Line
+	2750 7800 2750 7900
+Wire Wire Line
+	2650 7900 2750 7900
+Connection ~ 2750 7900
+Wire Wire Line
+	2750 7900 2750 8000
+Wire Wire Line
+	2650 8000 2750 8000
+Connection ~ 2750 8000
+Wire Wire Line
+	2750 8000 2750 8100
+Wire Wire Line
+	2650 8100 2750 8100
+Connection ~ 2750 8100
+Wire Wire Line
+	2750 8100 2750 8200
+Wire Wire Line
+	2650 8200 2750 8200
+Connection ~ 2750 8200
+Wire Wire Line
+	2750 8200 2750 8300
+Wire Wire Line
+	1000 7300 1400 7300
+Wire Wire Line
+	1000 7050 1400 7050
+Text GLabel 3950 4650 0    50   Input ~ 0
+A10_AP
+Text GLabel 7500 4350 0    50   Input ~ 0
+ACT_n
+Text GLabel 7200 2200 0    50   Input ~ 0
+CB5
+Text GLabel 7500 2750 0    50   Input ~ 0
+SDA
+Wire Wire Line
+	7700 2750 7500 2750
+$Comp
+L ddr4_udimm:DDR4_UDIMM U1
+U 3 1 65906D4B
+P 8500 2800
+F 0 "U1" H 8425 4915 50  0000 C CNN
+F 1 "DDR4_Front" H 8425 4824 50  0000 C CNN
+F 2 "DDR4_UDIMM:DDR4_UDIMM" H 10100 6750 50  0001 C CNN
+F 3 "" H 10100 6750 50  0001 C CNN
+	3    8500 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:DDR4_UDIMM U1
+U 4 1 65946DBC
+P 10700 1900
+F 0 "U1" H 10858 3165 50  0000 C CNN
+F 1 "DDR4_Front" H 10858 3074 50  0000 C CNN
+F 2 "DDR4_UDIMM:DDR4_UDIMM" H 12300 5850 50  0001 C CNN
+F 3 "" H 12300 5850 50  0001 C CNN
+	4    10700 1900
+	1    0    0    -1  
+$EndComp
+Text GLabel 6050 4250 2    50   Input ~ 0
+DQ28
+$Comp
+L ddr4_udimm:VDD #U0101
+U 1 1 609A3D7B
+P 3200 6950
+F 0 "#U0101" H 3200 6800 50  0001 C CNN
+F 1 "VDD" V 3200 7100 50  0000 L CNN
+F 2 "" H 3200 6800 50  0001 C CNN
+F 3 "" H 3200 6800 50  0001 C CNN
+	1    3200 6950
+	0    1    1    0   
+$EndComp
+$Comp
+L ddr4_udimm:VTT #U0102
+U 1 1 60BA3D42
+P 1000 6000
+F 0 "#U0102" H 1000 6250 50  0001 C CNN
+F 1 "VTT" V 1000 6150 50  0000 L CNN
+F 2 "" H 1000 6250 50  0001 C CNN
+F 3 "" H 1000 6250 50  0001 C CNN
+	1    1000 6000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ddr4_udimm:VSS #U0104
+U 1 1 626723D1
+P 3100 3600
+F 0 "#U0104" H 3100 3400 50  0001 C CNN
+F 1 "VSS" V 3100 3750 50  0000 L CNN
+F 2 "" H 3100 3400 50  0001 C CNN
+F 3 "" H 3100 3400 50  0001 C CNN
+	1    3100 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L ddr4_udimm:VSS #U0105
+U 1 1 6283511D
+P 850 3600
+F 0 "#U0105" H 850 3400 50  0001 C CNN
+F 1 "VSS" V 850 3900 50  0000 R CNN
+F 2 "" H 850 3400 50  0001 C CNN
+F 3 "" H 850 3400 50  0001 C CNN
+	1    850  3600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	850  3600 1300 3600
+$Comp
+L ddr4_udimm:VPP #U0106
+U 1 1 62A8C781
+P 1000 6550
+F 0 "#U0106" H 1000 6350 50  0001 C CNN
+F 1 "VPP" V 1000 6850 50  0000 R CNN
+F 2 "" H 1000 6350 50  0001 C CNN
+F 3 "" H 1000 6350 50  0001 C CNN
+	1    1000 6550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ddr4_udimm:VREFCA #U0107
+U 1 1 62B24BAD
+P 1000 7050
+F 0 "#U0107" H 1000 6850 50  0001 C CNN
+F 1 "VREFCA" V 1000 7450 50  0000 R CNN
+F 2 "" H 1000 6850 50  0001 C CNN
+F 3 "" H 1000 6850 50  0001 C CNN
+	1    1000 7050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ddr4_udimm:VDDSPD #U0108
+U 1 1 62BBB1D2
+P 1000 7300
+F 0 "#U0108" H 1000 7100 50  0001 C CNN
+F 1 "VDDSPD" V 1000 7700 50  0000 R CNN
+F 2 "" H 1000 7100 50  0001 C CNN
+F 3 "" H 1000 7100 50  0001 C CNN
+	1    1000 7300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ddr4_udimm:R R4
+U 1 1 62CD078D
+P 5800 1450
+F 0 "R4" H 5650 1500 50  0000 C CNN
+F 1 "15" H 5950 1500 50  0000 C CNN
+F 2 "" H 5800 1350 50  0001 C CNN
+F 3 "" H 5800 1350 50  0001 C CNN
+	1    5800 1450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5550 1450 5650 1450
+Wire Wire Line
+	5550 1550 5650 1550
+Wire Wire Line
+	5550 1650 5650 1650
+Wire Wire Line
+	5950 1450 6050 1450
+Wire Wire Line
+	5950 1550 6050 1550
+Wire Wire Line
+	5550 1750 5650 1750
+Wire Wire Line
+	5950 1750 6050 1750
+Wire Wire Line
+	5550 1850 5650 1850
+Wire Wire Line
+	5950 1850 6050 1850
+Wire Wire Line
+	5550 1950 5650 1950
+Wire Wire Line
+	5950 1950 6050 1950
+Wire Wire Line
+	5550 2050 5650 2050
+Wire Wire Line
+	5950 2050 6050 2050
+Wire Wire Line
+	5550 2150 5650 2150
+Wire Wire Line
+	5950 2150 6050 2150
+Wire Wire Line
+	5550 2250 5650 2250
+Wire Wire Line
+	5950 2250 6050 2250
+Wire Wire Line
+	5550 2350 5650 2350
+Wire Wire Line
+	6050 2350 5950 2350
+Wire Wire Line
+	6050 2450 5950 2450
+Wire Wire Line
+	5650 2450 5550 2450
+Wire Wire Line
+	5550 2550 5650 2550
+Wire Wire Line
+	5950 2550 6050 2550
+Wire Wire Line
+	6050 2650 5950 2650
+Wire Wire Line
+	5650 2650 5550 2650
+Wire Wire Line
+	5550 2750 5650 2750
+Wire Wire Line
+	5950 2750 6050 2750
+Wire Wire Line
+	5550 2850 5650 2850
+Wire Wire Line
+	5950 2850 6050 2850
+Wire Wire Line
+	6050 2950 5950 2950
+Wire Wire Line
+	5650 2950 5550 2950
+Wire Wire Line
+	5550 3050 5650 3050
+Wire Wire Line
+	5950 3050 6050 3050
+Wire Wire Line
+	5550 3150 5650 3150
+Wire Wire Line
+	5950 3150 6050 3150
+Wire Wire Line
+	5550 3250 5650 3250
+Wire Wire Line
+	5950 3250 6050 3250
+Wire Wire Line
+	5550 3350 5650 3350
+Wire Wire Line
+	5950 3350 6050 3350
+Wire Wire Line
+	5550 3450 5650 3450
+Wire Wire Line
+	5950 3450 6050 3450
+Wire Wire Line
+	5550 3550 5650 3550
+Wire Wire Line
+	5950 3550 6050 3550
+Wire Wire Line
+	5550 3650 5650 3650
+Wire Wire Line
+	5950 3650 6050 3650
+Wire Wire Line
+	6050 3750 5950 3750
+Wire Wire Line
+	5650 3750 5550 3750
+Wire Wire Line
+	5550 3850 5650 3850
+Wire Wire Line
+	5950 3850 6050 3850
+Wire Wire Line
+	5550 3950 5650 3950
+Wire Wire Line
+	5950 3950 6050 3950
+Wire Wire Line
+	5550 4050 5650 4050
+Wire Wire Line
+	5950 4050 6050 4050
+Wire Wire Line
+	5550 4150 5650 4150
+Wire Wire Line
+	5950 4150 6050 4150
+Wire Wire Line
+	5550 4250 5650 4250
+Wire Wire Line
+	5950 4250 6050 4250
+Wire Wire Line
+	5550 4350 5650 4350
+Wire Wire Line
+	5950 4350 6050 4350
+Wire Wire Line
+	5550 4450 5650 4450
+Wire Wire Line
+	5950 4450 6050 4450
+Wire Wire Line
+	5550 4550 5650 4550
+Wire Wire Line
+	5950 4550 6050 4550
+Wire Wire Line
+	5550 4650 5650 4650
+Wire Wire Line
+	5950 4650 6050 4650
+Wire Wire Line
+	6050 4750 5950 4750
+Wire Wire Line
+	5550 4750 5650 4750
+Wire Wire Line
+	5550 4850 5650 4850
+Wire Wire Line
+	5550 4950 5650 4950
+Wire Wire Line
+	5550 5050 5650 5050
+Wire Wire Line
+	5550 5150 5650 5150
+Wire Wire Line
+	5550 5250 5650 5250
+Wire Wire Line
+	5550 5350 5650 5350
+Wire Wire Line
+	5550 5450 5650 5450
+Wire Wire Line
+	5550 5550 5650 5550
+Wire Wire Line
+	5550 5650 5650 5650
+Wire Wire Line
+	5550 5750 5650 5750
+Wire Wire Line
+	5550 5850 5650 5850
+Wire Wire Line
+	5550 5950 5650 5950
+Wire Wire Line
+	5650 6050 5550 6050
+Wire Wire Line
+	5550 6150 5650 6150
+Wire Wire Line
+	5550 6250 5650 6250
+Wire Wire Line
+	5550 6350 5650 6350
+Wire Wire Line
+	5550 6450 5650 6450
+Wire Wire Line
+	5550 6550 5650 6550
+Wire Wire Line
+	5550 6650 5650 6650
+Wire Wire Line
+	5550 6750 5650 6750
+Wire Wire Line
+	5550 6850 5650 6850
+Wire Wire Line
+	5550 6950 5650 6950
+Wire Wire Line
+	5550 7050 5650 7050
+Wire Wire Line
+	5550 7150 5650 7150
+Wire Wire Line
+	5550 7250 5650 7250
+Wire Wire Line
+	5550 7350 5650 7350
+Wire Wire Line
+	5550 7450 5650 7450
+Wire Wire Line
+	5550 7550 5650 7550
+Wire Wire Line
+	5550 7650 5650 7650
+Wire Wire Line
+	5550 7750 5650 7750
+Wire Wire Line
+	5950 4850 6050 4850
+Wire Wire Line
+	5950 4950 6050 4950
+Wire Wire Line
+	5950 5050 6050 5050
+Wire Wire Line
+	5950 5150 6050 5150
+Wire Wire Line
+	5950 5250 6050 5250
+Wire Wire Line
+	5950 5350 6050 5350
+Wire Wire Line
+	5950 5450 6050 5450
+Wire Wire Line
+	5950 5550 6050 5550
+Wire Wire Line
+	5950 5650 6050 5650
+Wire Wire Line
+	5950 5750 6050 5750
+Wire Wire Line
+	5950 5850 6050 5850
+Wire Wire Line
+	5950 5950 6050 5950
+Wire Wire Line
+	5950 6050 6050 6050
+Wire Wire Line
+	5950 6150 6050 6150
+Wire Wire Line
+	5950 6250 6050 6250
+Wire Wire Line
+	5950 6350 6050 6350
+Wire Wire Line
+	5950 6450 6050 6450
+Wire Wire Line
+	5950 6550 6050 6550
+Wire Wire Line
+	5950 6650 6050 6650
+Wire Wire Line
+	5950 6750 6050 6750
+Wire Wire Line
+	5950 6850 6050 6850
+Wire Wire Line
+	5950 6950 6050 6950
+Wire Wire Line
+	5950 7050 6050 7050
+Wire Wire Line
+	5950 7150 6050 7150
+Wire Wire Line
+	5950 7250 6050 7250
+Wire Wire Line
+	5950 7350 6050 7350
+Wire Wire Line
+	5950 7450 6050 7450
+Wire Wire Line
+	5950 7550 6050 7550
+Wire Wire Line
+	5950 7650 6050 7650
+Wire Wire Line
+	5950 7750 6050 7750
+Wire Wire Line
+	9150 1450 9250 1450
+Wire Wire Line
+	9550 1450 9650 1450
+Wire Wire Line
+	9150 1550 9250 1550
+Wire Wire Line
+	9550 1550 9650 1550
+Wire Wire Line
+	9150 1650 9250 1650
+Wire Wire Line
+	9550 1650 9650 1650
+Wire Wire Line
+	9150 1750 9250 1750
+Wire Wire Line
+	9550 1750 9650 1750
+Wire Wire Line
+	9150 1850 9250 1850
+Wire Wire Line
+	9550 1850 9650 1850
+Wire Wire Line
+	9150 1950 9250 1950
+Wire Wire Line
+	9550 1950 9650 1950
+Wire Wire Line
+	9150 2050 9250 2050
+Wire Wire Line
+	9550 2050 9650 2050
+Wire Wire Line
+	9150 2150 9250 2150
+Wire Wire Line
+	9550 2150 9650 2150
+Wire Wire Line
+	9150 2250 9250 2250
+Wire Wire Line
+	9550 2250 9650 2250
+Wire Wire Line
+	9150 2350 9250 2350
+Wire Wire Line
+	9550 2350 9650 2350
+Wire Wire Line
+	9150 2450 9250 2450
+Wire Wire Line
+	9550 2450 9650 2450
+Wire Wire Line
+	9150 2550 9250 2550
+Wire Wire Line
+	9550 2550 9650 2550
+Wire Wire Line
+	9150 2650 9250 2650
+Wire Wire Line
+	9550 2650 9650 2650
+Wire Wire Line
+	9150 2750 9250 2750
+Wire Wire Line
+	9550 2750 9650 2750
+Wire Wire Line
+	9150 2850 9250 2850
+Wire Wire Line
+	9550 2850 9650 2850
+Wire Wire Line
+	9150 2950 9250 2950
+Wire Wire Line
+	9550 2950 9650 2950
+Wire Wire Line
+	9150 3050 9250 3050
+Wire Wire Line
+	9550 3050 9650 3050
+Wire Wire Line
+	9650 3150 9550 3150
+Wire Wire Line
+	9250 3150 9150 3150
+Wire Wire Line
+	7200 2950 7300 2950
+Wire Wire Line
+	7600 2950 7700 2950
+Wire Wire Line
+	7200 3050 7300 3050
+Wire Wire Line
+	7200 3150 7300 3150
+Wire Wire Line
+	7200 3250 7300 3250
+Wire Wire Line
+	7200 3350 7300 3350
+Wire Wire Line
+	7200 3450 7300 3450
+Wire Wire Line
+	7200 3550 7300 3550
+Wire Wire Line
+	7200 3650 7300 3650
+Wire Wire Line
+	7200 3750 7300 3750
+Wire Wire Line
+	7600 3750 7700 3750
+Wire Wire Line
+	7600 3650 7700 3650
+Wire Wire Line
+	7600 3550 7700 3550
+Wire Wire Line
+	7600 3450 7700 3450
+Wire Wire Line
+	7600 3350 7700 3350
+Wire Wire Line
+	7600 3250 7700 3250
+Wire Wire Line
+	7600 3150 7700 3150
+Wire Wire Line
+	7600 3050 7700 3050
+Wire Wire Line
+	7200 1700 7300 1700
+Wire Wire Line
+	7600 1700 7700 1700
+Wire Wire Line
+	7200 1800 7300 1800
+Wire Wire Line
+	7200 1900 7300 1900
+Wire Wire Line
+	7200 2000 7300 2000
+Wire Wire Line
+	7200 2100 7300 2100
+Wire Wire Line
+	7200 2200 7300 2200
+Wire Wire Line
+	7200 2300 7300 2300
+Wire Wire Line
+	7200 2400 7300 2400
+Wire Wire Line
+	7600 2400 7700 2400
+Wire Wire Line
+	7600 2300 7700 2300
+Wire Wire Line
+	7600 2200 7700 2200
+Wire Wire Line
+	7600 2100 7700 2100
+Wire Wire Line
+	7600 2000 7700 2000
+Wire Wire Line
+	7600 1900 7700 1900
+Wire Wire Line
+	7600 1800 7700 1800
+Wire Wire Line
+	5950 1650 6050 1650
+NoConn ~ 9150 3450
+NoConn ~ 9150 3750
+$Comp
+L ddr4_udimm:DDR4_UDIMM U1
+U 2 1 6159D013
+P 4850 4400
+AR Path="/6159D013" Ref="U1"  Part="2" 
+AR Path="/614EDC81/6159D013" Ref="U1"  Part="2" 
+AR Path="/6161A96E/6159D013" Ref="U?"  Part="2" 
+F 0 "U1" H 4875 8115 50  0000 C CNN
+F 1 "DDR4_Front" H 4875 8024 50  0000 C CNN
+F 2 "DDR4_UDIMM:DDR4_UDIMM" H 6450 8350 50  0001 C CNN
+F 3 "" H 6450 8350 50  0001 C CNN
+	2    4850 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R1
+U 1 1 608A6513
+P 5800 1550
+F 0 "R1" H 5650 1600 50  0000 C CNN
+F 1 "15" H 5950 1600 50  0000 C CNN
+F 2 "" H 5800 1450 50  0001 C CNN
+F 3 "" H 5800 1450 50  0001 C CNN
+	1    5800 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R2
+U 1 1 608EBFFC
+P 5800 1650
+F 0 "R2" H 5650 1700 50  0000 C CNN
+F 1 "15" H 5950 1700 50  0000 C CNN
+F 2 "" H 5800 1550 50  0001 C CNN
+F 3 "" H 5800 1550 50  0001 C CNN
+	1    5800 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R3
+U 1 1 60931935
+P 5800 1750
+F 0 "R3" H 5650 1800 50  0000 C CNN
+F 1 "15" H 5950 1800 50  0000 C CNN
+F 2 "" H 5800 1650 50  0001 C CNN
+F 3 "" H 5800 1650 50  0001 C CNN
+	1    5800 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R5
+U 1 1 609773D2
+P 5800 1850
+F 0 "R5" H 5650 1900 50  0000 C CNN
+F 1 "15" H 5950 1900 50  0000 C CNN
+F 2 "" H 5800 1750 50  0001 C CNN
+F 3 "" H 5800 1750 50  0001 C CNN
+	1    5800 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R6
+U 1 1 609BCDB1
+P 5800 1950
+F 0 "R6" H 5650 2000 50  0000 C CNN
+F 1 "15" H 5950 2000 50  0000 C CNN
+F 2 "" H 5800 1850 50  0001 C CNN
+F 3 "" H 5800 1850 50  0001 C CNN
+	1    5800 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R7
+U 1 1 60A02785
+P 5800 2050
+F 0 "R7" H 5650 2100 50  0000 C CNN
+F 1 "15" H 5950 2100 50  0000 C CNN
+F 2 "" H 5800 1950 50  0001 C CNN
+F 3 "" H 5800 1950 50  0001 C CNN
+	1    5800 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R8
+U 1 1 60A4822A
+P 5800 2150
+F 0 "R8" H 5650 2200 50  0000 C CNN
+F 1 "15" H 5950 2200 50  0000 C CNN
+F 2 "" H 5800 2050 50  0001 C CNN
+F 3 "" H 5800 2050 50  0001 C CNN
+	1    5800 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R9
+U 1 1 60A8FF0D
+P 5800 2250
+F 0 "R9" H 5650 2300 50  0000 C CNN
+F 1 "15" H 5950 2300 50  0000 C CNN
+F 2 "" H 5800 2150 50  0001 C CNN
+F 3 "" H 5800 2150 50  0001 C CNN
+	1    5800 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R10
+U 1 1 60A8FF13
+P 5800 2350
+F 0 "R10" H 5650 2400 50  0000 C CNN
+F 1 "15" H 5950 2400 50  0000 C CNN
+F 2 "" H 5800 2250 50  0001 C CNN
+F 3 "" H 5800 2250 50  0001 C CNN
+	1    5800 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R11
+U 1 1 60A8FF19
+P 5800 2450
+F 0 "R11" H 5650 2500 50  0000 C CNN
+F 1 "15" H 5950 2500 50  0000 C CNN
+F 2 "" H 5800 2350 50  0001 C CNN
+F 3 "" H 5800 2350 50  0001 C CNN
+	1    5800 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R12
+U 1 1 60A8FF1F
+P 5800 2550
+F 0 "R12" H 5650 2600 50  0000 C CNN
+F 1 "15" H 5950 2600 50  0000 C CNN
+F 2 "" H 5800 2450 50  0001 C CNN
+F 3 "" H 5800 2450 50  0001 C CNN
+	1    5800 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R13
+U 1 1 60A8FF25
+P 5800 2650
+F 0 "R13" H 5650 2700 50  0000 C CNN
+F 1 "15" H 5950 2700 50  0000 C CNN
+F 2 "" H 5800 2550 50  0001 C CNN
+F 3 "" H 5800 2550 50  0001 C CNN
+	1    5800 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R14
+U 1 1 60A8FF2B
+P 5800 2750
+F 0 "R14" H 5650 2800 50  0000 C CNN
+F 1 "15" H 5950 2800 50  0000 C CNN
+F 2 "" H 5800 2650 50  0001 C CNN
+F 3 "" H 5800 2650 50  0001 C CNN
+	1    5800 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R15
+U 1 1 60A8FF31
+P 5800 2850
+F 0 "R15" H 5650 2900 50  0000 C CNN
+F 1 "15" H 5950 2900 50  0000 C CNN
+F 2 "" H 5800 2750 50  0001 C CNN
+F 3 "" H 5800 2750 50  0001 C CNN
+	1    5800 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R16
+U 1 1 60A8FF37
+P 5800 2950
+F 0 "R16" H 5650 3000 50  0000 C CNN
+F 1 "15" H 5950 3000 50  0000 C CNN
+F 2 "" H 5800 2850 50  0001 C CNN
+F 3 "" H 5800 2850 50  0001 C CNN
+	1    5800 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R17
+U 1 1 60AD65AC
+P 5800 3050
+F 0 "R17" H 5650 3100 50  0000 C CNN
+F 1 "15" H 5950 3100 50  0000 C CNN
+F 2 "" H 5800 2950 50  0001 C CNN
+F 3 "" H 5800 2950 50  0001 C CNN
+	1    5800 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R18
+U 1 1 60AD65B2
+P 5800 3150
+F 0 "R18" H 5650 3200 50  0000 C CNN
+F 1 "15" H 5950 3200 50  0000 C CNN
+F 2 "" H 5800 3050 50  0001 C CNN
+F 3 "" H 5800 3050 50  0001 C CNN
+	1    5800 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R19
+U 1 1 60AD65B8
+P 5800 3250
+F 0 "R19" H 5650 3300 50  0000 C CNN
+F 1 "15" H 5950 3300 50  0000 C CNN
+F 2 "" H 5800 3150 50  0001 C CNN
+F 3 "" H 5800 3150 50  0001 C CNN
+	1    5800 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R20
+U 1 1 60AD65BE
+P 5800 3350
+F 0 "R20" H 5650 3400 50  0000 C CNN
+F 1 "15" H 5950 3400 50  0000 C CNN
+F 2 "" H 5800 3250 50  0001 C CNN
+F 3 "" H 5800 3250 50  0001 C CNN
+	1    5800 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R21
+U 1 1 60AD65C4
+P 5800 3450
+F 0 "R21" H 5650 3500 50  0000 C CNN
+F 1 "15" H 5950 3500 50  0000 C CNN
+F 2 "" H 5800 3350 50  0001 C CNN
+F 3 "" H 5800 3350 50  0001 C CNN
+	1    5800 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R22
+U 1 1 60AD65CA
+P 5800 3550
+F 0 "R22" H 5650 3600 50  0000 C CNN
+F 1 "15" H 5950 3600 50  0000 C CNN
+F 2 "" H 5800 3450 50  0001 C CNN
+F 3 "" H 5800 3450 50  0001 C CNN
+	1    5800 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R23
+U 1 1 60AD65D0
+P 5800 3650
+F 0 "R23" H 5650 3700 50  0000 C CNN
+F 1 "15" H 5950 3700 50  0000 C CNN
+F 2 "" H 5800 3550 50  0001 C CNN
+F 3 "" H 5800 3550 50  0001 C CNN
+	1    5800 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R24
+U 1 1 60AD65D6
+P 5800 3750
+F 0 "R24" H 5650 3800 50  0000 C CNN
+F 1 "15" H 5950 3800 50  0000 C CNN
+F 2 "" H 5800 3650 50  0001 C CNN
+F 3 "" H 5800 3650 50  0001 C CNN
+	1    5800 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R25
+U 1 1 60B1CE7B
+P 5800 3850
+F 0 "R25" H 5650 3900 50  0000 C CNN
+F 1 "15" H 5950 3900 50  0000 C CNN
+F 2 "" H 5800 3750 50  0001 C CNN
+F 3 "" H 5800 3750 50  0001 C CNN
+	1    5800 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R26
+U 1 1 60B1CE81
+P 5800 3950
+F 0 "R26" H 5650 4000 50  0000 C CNN
+F 1 "15" H 5950 4000 50  0000 C CNN
+F 2 "" H 5800 3850 50  0001 C CNN
+F 3 "" H 5800 3850 50  0001 C CNN
+	1    5800 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R27
+U 1 1 60B1CE87
+P 5800 4050
+F 0 "R27" H 5650 4100 50  0000 C CNN
+F 1 "15" H 5950 4100 50  0000 C CNN
+F 2 "" H 5800 3950 50  0001 C CNN
+F 3 "" H 5800 3950 50  0001 C CNN
+	1    5800 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R28
+U 1 1 60B1CE8D
+P 5800 4150
+F 0 "R28" H 5650 4200 50  0000 C CNN
+F 1 "15" H 5950 4200 50  0000 C CNN
+F 2 "" H 5800 4050 50  0001 C CNN
+F 3 "" H 5800 4050 50  0001 C CNN
+	1    5800 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R29
+U 1 1 60B1CE93
+P 5800 4250
+F 0 "R29" H 5650 4300 50  0000 C CNN
+F 1 "15" H 5950 4300 50  0000 C CNN
+F 2 "" H 5800 4150 50  0001 C CNN
+F 3 "" H 5800 4150 50  0001 C CNN
+	1    5800 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R30
+U 1 1 60B1CE99
+P 5800 4350
+F 0 "R30" H 5650 4400 50  0000 C CNN
+F 1 "15" H 5950 4400 50  0000 C CNN
+F 2 "" H 5800 4250 50  0001 C CNN
+F 3 "" H 5800 4250 50  0001 C CNN
+	1    5800 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R31
+U 1 1 60B1CE9F
+P 5800 4450
+F 0 "R31" H 5650 4500 50  0000 C CNN
+F 1 "15" H 5950 4500 50  0000 C CNN
+F 2 "" H 5800 4350 50  0001 C CNN
+F 3 "" H 5800 4350 50  0001 C CNN
+	1    5800 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R32
+U 1 1 60B1CEA5
+P 5800 4550
+F 0 "R32" H 5650 4600 50  0000 C CNN
+F 1 "15" H 5950 4600 50  0000 C CNN
+F 2 "" H 5800 4450 50  0001 C CNN
+F 3 "" H 5800 4450 50  0001 C CNN
+	1    5800 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R33
+U 1 1 60B63366
+P 5800 4650
+F 0 "R33" H 5650 4700 50  0000 C CNN
+F 1 "15" H 5950 4700 50  0000 C CNN
+F 2 "" H 5800 4550 50  0001 C CNN
+F 3 "" H 5800 4550 50  0001 C CNN
+	1    5800 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R34
+U 1 1 60B6336C
+P 5800 4750
+F 0 "R34" H 5650 4800 50  0000 C CNN
+F 1 "15" H 5950 4800 50  0000 C CNN
+F 2 "" H 5800 4650 50  0001 C CNN
+F 3 "" H 5800 4650 50  0001 C CNN
+	1    5800 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R35
+U 1 1 60B63372
+P 5800 4850
+F 0 "R35" H 5650 4900 50  0000 C CNN
+F 1 "15" H 5950 4900 50  0000 C CNN
+F 2 "" H 5800 4750 50  0001 C CNN
+F 3 "" H 5800 4750 50  0001 C CNN
+	1    5800 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R36
+U 1 1 60B63378
+P 5800 4950
+F 0 "R36" H 5650 5000 50  0000 C CNN
+F 1 "15" H 5950 5000 50  0000 C CNN
+F 2 "" H 5800 4850 50  0001 C CNN
+F 3 "" H 5800 4850 50  0001 C CNN
+	1    5800 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R37
+U 1 1 60B6337E
+P 5800 5050
+F 0 "R37" H 5650 5100 50  0000 C CNN
+F 1 "15" H 5950 5100 50  0000 C CNN
+F 2 "" H 5800 4950 50  0001 C CNN
+F 3 "" H 5800 4950 50  0001 C CNN
+	1    5800 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R38
+U 1 1 60B63384
+P 5800 5150
+F 0 "R38" H 5650 5200 50  0000 C CNN
+F 1 "15" H 5950 5200 50  0000 C CNN
+F 2 "" H 5800 5050 50  0001 C CNN
+F 3 "" H 5800 5050 50  0001 C CNN
+	1    5800 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R39
+U 1 1 60B6338A
+P 5800 5250
+F 0 "R39" H 5650 5300 50  0000 C CNN
+F 1 "15" H 5950 5300 50  0000 C CNN
+F 2 "" H 5800 5150 50  0001 C CNN
+F 3 "" H 5800 5150 50  0001 C CNN
+	1    5800 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R40
+U 1 1 60B63390
+P 5800 5350
+F 0 "R40" H 5650 5400 50  0000 C CNN
+F 1 "15" H 5950 5400 50  0000 C CNN
+F 2 "" H 5800 5250 50  0001 C CNN
+F 3 "" H 5800 5250 50  0001 C CNN
+	1    5800 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R41
+U 1 1 60BA9499
+P 5800 5450
+F 0 "R41" H 5650 5500 50  0000 C CNN
+F 1 "15" H 5950 5500 50  0000 C CNN
+F 2 "" H 5800 5350 50  0001 C CNN
+F 3 "" H 5800 5350 50  0001 C CNN
+	1    5800 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R42
+U 1 1 60BA949F
+P 5800 5550
+F 0 "R42" H 5650 5600 50  0000 C CNN
+F 1 "15" H 5950 5600 50  0000 C CNN
+F 2 "" H 5800 5450 50  0001 C CNN
+F 3 "" H 5800 5450 50  0001 C CNN
+	1    5800 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R43
+U 1 1 60BA94A5
+P 5800 5650
+F 0 "R43" H 5650 5700 50  0000 C CNN
+F 1 "15" H 5950 5700 50  0000 C CNN
+F 2 "" H 5800 5550 50  0001 C CNN
+F 3 "" H 5800 5550 50  0001 C CNN
+	1    5800 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R44
+U 1 1 60BA94AB
+P 5800 5750
+F 0 "R44" H 5650 5800 50  0000 C CNN
+F 1 "15" H 5950 5800 50  0000 C CNN
+F 2 "" H 5800 5650 50  0001 C CNN
+F 3 "" H 5800 5650 50  0001 C CNN
+	1    5800 5750
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R45
+U 1 1 60BA94B1
+P 5800 5850
+F 0 "R45" H 5650 5900 50  0000 C CNN
+F 1 "15" H 5950 5900 50  0000 C CNN
+F 2 "" H 5800 5750 50  0001 C CNN
+F 3 "" H 5800 5750 50  0001 C CNN
+	1    5800 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R46
+U 1 1 60BA94B7
+P 5800 5950
+F 0 "R46" H 5650 6000 50  0000 C CNN
+F 1 "15" H 5950 6000 50  0000 C CNN
+F 2 "" H 5800 5850 50  0001 C CNN
+F 3 "" H 5800 5850 50  0001 C CNN
+	1    5800 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R47
+U 1 1 60BA94BD
+P 5800 6050
+F 0 "R47" H 5650 6100 50  0000 C CNN
+F 1 "15" H 5950 6100 50  0000 C CNN
+F 2 "" H 5800 5950 50  0001 C CNN
+F 3 "" H 5800 5950 50  0001 C CNN
+	1    5800 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R48
+U 1 1 60BA94C3
+P 5800 6150
+F 0 "R48" H 5650 6200 50  0000 C CNN
+F 1 "15" H 5950 6200 50  0000 C CNN
+F 2 "" H 5800 6050 50  0001 C CNN
+F 3 "" H 5800 6050 50  0001 C CNN
+	1    5800 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R49
+U 1 1 60BF049A
+P 5800 6250
+F 0 "R49" H 5650 6300 50  0000 C CNN
+F 1 "15" H 5950 6300 50  0000 C CNN
+F 2 "" H 5800 6150 50  0001 C CNN
+F 3 "" H 5800 6150 50  0001 C CNN
+	1    5800 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R50
+U 1 1 60BF04A0
+P 5800 6350
+F 0 "R50" H 5650 6400 50  0000 C CNN
+F 1 "15" H 5950 6400 50  0000 C CNN
+F 2 "" H 5800 6250 50  0001 C CNN
+F 3 "" H 5800 6250 50  0001 C CNN
+	1    5800 6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R51
+U 1 1 60BF04A6
+P 5800 6450
+F 0 "R51" H 5650 6500 50  0000 C CNN
+F 1 "15" H 5950 6500 50  0000 C CNN
+F 2 "" H 5800 6350 50  0001 C CNN
+F 3 "" H 5800 6350 50  0001 C CNN
+	1    5800 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R52
+U 1 1 60BF04AC
+P 5800 6550
+F 0 "R52" H 5650 6600 50  0000 C CNN
+F 1 "15" H 5950 6600 50  0000 C CNN
+F 2 "" H 5800 6450 50  0001 C CNN
+F 3 "" H 5800 6450 50  0001 C CNN
+	1    5800 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R53
+U 1 1 60BF04B2
+P 5800 6650
+F 0 "R53" H 5650 6700 50  0000 C CNN
+F 1 "15" H 5950 6700 50  0000 C CNN
+F 2 "" H 5800 6550 50  0001 C CNN
+F 3 "" H 5800 6550 50  0001 C CNN
+	1    5800 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R54
+U 1 1 60BF04B8
+P 5800 6750
+F 0 "R54" H 5650 6800 50  0000 C CNN
+F 1 "15" H 5950 6800 50  0000 C CNN
+F 2 "" H 5800 6650 50  0001 C CNN
+F 3 "" H 5800 6650 50  0001 C CNN
+	1    5800 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R55
+U 1 1 60BF04BE
+P 5800 6850
+F 0 "R55" H 5650 6900 50  0000 C CNN
+F 1 "15" H 5950 6900 50  0000 C CNN
+F 2 "" H 5800 6750 50  0001 C CNN
+F 3 "" H 5800 6750 50  0001 C CNN
+	1    5800 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R56
+U 1 1 60BF04C4
+P 5800 6950
+F 0 "R56" H 5650 7000 50  0000 C CNN
+F 1 "15" H 5950 7000 50  0000 C CNN
+F 2 "" H 5800 6850 50  0001 C CNN
+F 3 "" H 5800 6850 50  0001 C CNN
+	1    5800 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R57
+U 1 1 60C37755
+P 5800 7050
+F 0 "R57" H 5650 7100 50  0000 C CNN
+F 1 "15" H 5950 7100 50  0000 C CNN
+F 2 "" H 5800 6950 50  0001 C CNN
+F 3 "" H 5800 6950 50  0001 C CNN
+	1    5800 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R58
+U 1 1 60C3775B
+P 5800 7150
+F 0 "R58" H 5650 7200 50  0000 C CNN
+F 1 "15" H 5950 7200 50  0000 C CNN
+F 2 "" H 5800 7050 50  0001 C CNN
+F 3 "" H 5800 7050 50  0001 C CNN
+	1    5800 7150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R59
+U 1 1 60C37761
+P 5800 7250
+F 0 "R59" H 5650 7300 50  0000 C CNN
+F 1 "15" H 5950 7300 50  0000 C CNN
+F 2 "" H 5800 7150 50  0001 C CNN
+F 3 "" H 5800 7150 50  0001 C CNN
+	1    5800 7250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R60
+U 1 1 60C37767
+P 5800 7350
+F 0 "R60" H 5650 7400 50  0000 C CNN
+F 1 "15" H 5950 7400 50  0000 C CNN
+F 2 "" H 5800 7250 50  0001 C CNN
+F 3 "" H 5800 7250 50  0001 C CNN
+	1    5800 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R61
+U 1 1 60C3776D
+P 5800 7450
+F 0 "R61" H 5650 7500 50  0000 C CNN
+F 1 "15" H 5950 7500 50  0000 C CNN
+F 2 "" H 5800 7350 50  0001 C CNN
+F 3 "" H 5800 7350 50  0001 C CNN
+	1    5800 7450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R62
+U 1 1 60C37773
+P 5800 7550
+F 0 "R62" H 5650 7600 50  0000 C CNN
+F 1 "15" H 5950 7600 50  0000 C CNN
+F 2 "" H 5800 7450 50  0001 C CNN
+F 3 "" H 5800 7450 50  0001 C CNN
+	1    5800 7550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R63
+U 1 1 60C37779
+P 5800 7650
+F 0 "R63" H 5650 7700 50  0000 C CNN
+F 1 "15" H 5950 7700 50  0000 C CNN
+F 2 "" H 5800 7550 50  0001 C CNN
+F 3 "" H 5800 7550 50  0001 C CNN
+	1    5800 7650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R64
+U 1 1 60C3777F
+P 5800 7750
+F 0 "R64" H 5650 7800 50  0000 C CNN
+F 1 "15" H 5950 7800 50  0000 C CNN
+F 2 "" H 5800 7650 50  0001 C CNN
+F 3 "" H 5800 7650 50  0001 C CNN
+	1    5800 7750
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R65
+U 1 1 60D0A99F
+P 7450 1700
+F 0 "R65" H 7300 1750 50  0000 C CNN
+F 1 "15" H 7600 1750 50  0000 C CNN
+F 2 "" H 7450 1600 50  0001 C CNN
+F 3 "" H 7450 1600 50  0001 C CNN
+	1    7450 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R66
+U 1 1 60D0A9A5
+P 7450 1800
+F 0 "R66" H 7300 1850 50  0000 C CNN
+F 1 "15" H 7600 1850 50  0000 C CNN
+F 2 "" H 7450 1700 50  0001 C CNN
+F 3 "" H 7450 1700 50  0001 C CNN
+	1    7450 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R67
+U 1 1 60D0A9AB
+P 7450 1900
+F 0 "R67" H 7300 1950 50  0000 C CNN
+F 1 "15" H 7600 1950 50  0000 C CNN
+F 2 "" H 7450 1800 50  0001 C CNN
+F 3 "" H 7450 1800 50  0001 C CNN
+	1    7450 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R68
+U 1 1 60D0A9B1
+P 7450 2000
+F 0 "R68" H 7300 2050 50  0000 C CNN
+F 1 "15" H 7600 2050 50  0000 C CNN
+F 2 "" H 7450 1900 50  0001 C CNN
+F 3 "" H 7450 1900 50  0001 C CNN
+	1    7450 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R69
+U 1 1 60D0A9B7
+P 7450 2100
+F 0 "R69" H 7300 2150 50  0000 C CNN
+F 1 "15" H 7600 2150 50  0000 C CNN
+F 2 "" H 7450 2000 50  0001 C CNN
+F 3 "" H 7450 2000 50  0001 C CNN
+	1    7450 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R70
+U 1 1 60D0A9BD
+P 7450 2200
+F 0 "R70" H 7300 2250 50  0000 C CNN
+F 1 "15" H 7600 2250 50  0000 C CNN
+F 2 "" H 7450 2100 50  0001 C CNN
+F 3 "" H 7450 2100 50  0001 C CNN
+	1    7450 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R71
+U 1 1 60D0A9C3
+P 7450 2300
+F 0 "R71" H 7300 2350 50  0000 C CNN
+F 1 "15" H 7600 2350 50  0000 C CNN
+F 2 "" H 7450 2200 50  0001 C CNN
+F 3 "" H 7450 2200 50  0001 C CNN
+	1    7450 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R72
+U 1 1 60D0A9C9
+P 7450 2400
+F 0 "R72" H 7300 2450 50  0000 C CNN
+F 1 "15" H 7600 2450 50  0000 C CNN
+F 2 "" H 7450 2300 50  0001 C CNN
+F 3 "" H 7450 2300 50  0001 C CNN
+	1    7450 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R73
+U 1 1 60D50D76
+P 7450 2950
+F 0 "R73" H 7300 3000 50  0000 C CNN
+F 1 "15" H 7600 3000 50  0000 C CNN
+F 2 "" H 7450 2850 50  0001 C CNN
+F 3 "" H 7450 2850 50  0001 C CNN
+	1    7450 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R74
+U 1 1 60D50D7C
+P 7450 3050
+F 0 "R74" H 7300 3100 50  0000 C CNN
+F 1 "15" H 7600 3100 50  0000 C CNN
+F 2 "" H 7450 2950 50  0001 C CNN
+F 3 "" H 7450 2950 50  0001 C CNN
+	1    7450 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R75
+U 1 1 60D50D82
+P 7450 3150
+F 0 "R75" H 7300 3200 50  0000 C CNN
+F 1 "15" H 7600 3200 50  0000 C CNN
+F 2 "" H 7450 3050 50  0001 C CNN
+F 3 "" H 7450 3050 50  0001 C CNN
+	1    7450 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R76
+U 1 1 60D50D88
+P 7450 3250
+F 0 "R76" H 7300 3300 50  0000 C CNN
+F 1 "15" H 7600 3300 50  0000 C CNN
+F 2 "" H 7450 3150 50  0001 C CNN
+F 3 "" H 7450 3150 50  0001 C CNN
+	1    7450 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R77
+U 1 1 60D50D8E
+P 7450 3350
+F 0 "R77" H 7300 3400 50  0000 C CNN
+F 1 "15" H 7600 3400 50  0000 C CNN
+F 2 "" H 7450 3250 50  0001 C CNN
+F 3 "" H 7450 3250 50  0001 C CNN
+	1    7450 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R78
+U 1 1 60D50D94
+P 7450 3450
+F 0 "R78" H 7300 3500 50  0000 C CNN
+F 1 "15" H 7600 3500 50  0000 C CNN
+F 2 "" H 7450 3350 50  0001 C CNN
+F 3 "" H 7450 3350 50  0001 C CNN
+	1    7450 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R79
+U 1 1 60D50D9A
+P 7450 3550
+F 0 "R79" H 7300 3600 50  0000 C CNN
+F 1 "15" H 7600 3600 50  0000 C CNN
+F 2 "" H 7450 3450 50  0001 C CNN
+F 3 "" H 7450 3450 50  0001 C CNN
+	1    7450 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R80
+U 1 1 60D50DA0
+P 7450 3650
+F 0 "R80" H 7300 3700 50  0000 C CNN
+F 1 "15" H 7600 3700 50  0000 C CNN
+F 2 "" H 7450 3550 50  0001 C CNN
+F 3 "" H 7450 3550 50  0001 C CNN
+	1    7450 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R82
+U 1 1 60E2469B
+P 9400 1450
+F 0 "R82" H 9250 1500 50  0000 C CNN
+F 1 "15" H 9550 1500 50  0000 C CNN
+F 2 "" H 9400 1350 50  0001 C CNN
+F 3 "" H 9400 1350 50  0001 C CNN
+	1    9400 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R83
+U 1 1 60E246A1
+P 9400 1550
+F 0 "R83" H 9250 1600 50  0000 C CNN
+F 1 "15" H 9550 1600 50  0000 C CNN
+F 2 "" H 9400 1450 50  0001 C CNN
+F 3 "" H 9400 1450 50  0001 C CNN
+	1    9400 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R84
+U 1 1 60E246A7
+P 9400 1650
+F 0 "R84" H 9250 1700 50  0000 C CNN
+F 1 "15" H 9550 1700 50  0000 C CNN
+F 2 "" H 9400 1550 50  0001 C CNN
+F 3 "" H 9400 1550 50  0001 C CNN
+	1    9400 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R85
+U 1 1 60E246AD
+P 9400 1750
+F 0 "R85" H 9250 1800 50  0000 C CNN
+F 1 "15" H 9550 1800 50  0000 C CNN
+F 2 "" H 9400 1650 50  0001 C CNN
+F 3 "" H 9400 1650 50  0001 C CNN
+	1    9400 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R86
+U 1 1 60E246B3
+P 9400 1850
+F 0 "R86" H 9250 1900 50  0000 C CNN
+F 1 "15" H 9550 1900 50  0000 C CNN
+F 2 "" H 9400 1750 50  0001 C CNN
+F 3 "" H 9400 1750 50  0001 C CNN
+	1    9400 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R87
+U 1 1 60E246B9
+P 9400 1950
+F 0 "R87" H 9250 2000 50  0000 C CNN
+F 1 "15" H 9550 2000 50  0000 C CNN
+F 2 "" H 9400 1850 50  0001 C CNN
+F 3 "" H 9400 1850 50  0001 C CNN
+	1    9400 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R88
+U 1 1 60E246BF
+P 9400 2050
+F 0 "R88" H 9250 2100 50  0000 C CNN
+F 1 "15" H 9550 2100 50  0000 C CNN
+F 2 "" H 9400 1950 50  0001 C CNN
+F 3 "" H 9400 1950 50  0001 C CNN
+	1    9400 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R89
+U 1 1 60E246C5
+P 9400 2150
+F 0 "R89" H 9250 2200 50  0000 C CNN
+F 1 "15" H 9550 2200 50  0000 C CNN
+F 2 "" H 9400 2050 50  0001 C CNN
+F 3 "" H 9400 2050 50  0001 C CNN
+	1    9400 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R90
+U 1 1 60E6B3F8
+P 9400 2250
+F 0 "R90" H 9250 2300 50  0000 C CNN
+F 1 "15" H 9550 2300 50  0000 C CNN
+F 2 "" H 9400 2150 50  0001 C CNN
+F 3 "" H 9400 2150 50  0001 C CNN
+	1    9400 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R91
+U 1 1 60E6B3FE
+P 9400 2350
+F 0 "R91" H 9250 2400 50  0000 C CNN
+F 1 "15" H 9550 2400 50  0000 C CNN
+F 2 "" H 9400 2250 50  0001 C CNN
+F 3 "" H 9400 2250 50  0001 C CNN
+	1    9400 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R92
+U 1 1 60E6B404
+P 9400 2450
+F 0 "R92" H 9250 2500 50  0000 C CNN
+F 1 "15" H 9550 2500 50  0000 C CNN
+F 2 "" H 9400 2350 50  0001 C CNN
+F 3 "" H 9400 2350 50  0001 C CNN
+	1    9400 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R93
+U 1 1 60E6B40A
+P 9400 2550
+F 0 "R93" H 9250 2600 50  0000 C CNN
+F 1 "15" H 9550 2600 50  0000 C CNN
+F 2 "" H 9400 2450 50  0001 C CNN
+F 3 "" H 9400 2450 50  0001 C CNN
+	1    9400 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R94
+U 1 1 60E6B410
+P 9400 2650
+F 0 "R94" H 9250 2700 50  0000 C CNN
+F 1 "15" H 9550 2700 50  0000 C CNN
+F 2 "" H 9400 2550 50  0001 C CNN
+F 3 "" H 9400 2550 50  0001 C CNN
+	1    9400 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R95
+U 1 1 60E6B416
+P 9400 2750
+F 0 "R95" H 9250 2800 50  0000 C CNN
+F 1 "15" H 9550 2800 50  0000 C CNN
+F 2 "" H 9400 2650 50  0001 C CNN
+F 3 "" H 9400 2650 50  0001 C CNN
+	1    9400 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R96
+U 1 1 60E6B41C
+P 9400 2850
+F 0 "R96" H 9250 2900 50  0000 C CNN
+F 1 "15" H 9550 2900 50  0000 C CNN
+F 2 "" H 9400 2750 50  0001 C CNN
+F 3 "" H 9400 2750 50  0001 C CNN
+	1    9400 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R97
+U 1 1 60E6B422
+P 9400 2950
+F 0 "R97" H 9250 3000 50  0000 C CNN
+F 1 "15" H 9550 3000 50  0000 C CNN
+F 2 "" H 9400 2850 50  0001 C CNN
+F 3 "" H 9400 2850 50  0001 C CNN
+	1    9400 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R98
+U 1 1 60EB138D
+P 9400 3050
+F 0 "R98" H 9250 3100 50  0000 C CNN
+F 1 "15" H 9550 3100 50  0000 C CNN
+F 2 "" H 9400 2950 50  0001 C CNN
+F 3 "" H 9400 2950 50  0001 C CNN
+	1    9400 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R99
+U 1 1 60EB1393
+P 9400 3150
+F 0 "R99" H 9250 3200 50  0000 C CNN
+F 1 "15" H 9550 3200 50  0000 C CNN
+F 2 "" H 9400 3050 50  0001 C CNN
+F 3 "" H 9400 3050 50  0001 C CNN
+	1    9400 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:R R81
+U 1 1 60EB13AB
+P 7450 3750
+F 0 "R81" H 7300 3800 50  0000 C CNN
+F 1 "15" H 7600 3800 50  0000 C CNN
+F 2 "" H 7450 3650 50  0001 C CNN
+F 3 "" H 7450 3650 50  0001 C CNN
+	1    7450 3750
+	1    0    0    -1  
+$EndComp
+Text GLabel 9350 3350 2    50   Input ~ 0
+CS0_n
+$Comp
+L ddr4_udimm:MCP9843 U2
+U 1 1 61295A39
+P 14600 8700
+F 0 "U2" H 14400 9050 50  0000 C CNN
+F 1 "MCP9843" H 14800 9050 50  0000 C CNN
+F 2 "DDR4_UDIMM:SOIC-8" H 14850 8000 118 0001 C CNN
+F 3 "" H 14850 8000 118 0001 C CNN
+	1    14600 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L DDR3:R R101
+U 1 1 6129720A
+P 14000 8450
+F 0 "R101" V 13954 8538 50  0000 L CNN
+F 1 "10k" V 14045 8538 50  0000 L CNN
+F 2 "" H 14000 8350 50  0001 C CNN
+F 3 "" H 14000 8350 50  0001 C CNN
+	1    14000 8450
+	0    1    1    0   
+$EndComp
+$Comp
+L DDR3:R R100
+U 1 1 612DDCEB
+P 13750 8450
+F 0 "R100" V 13704 8538 50  0000 L CNN
+F 1 "10k" V 13795 8538 50  0000 L CNN
+F 2 "" H 13750 8350 50  0001 C CNN
+F 3 "" H 13750 8350 50  0001 C CNN
+	1    13750 8450
+	0    1    1    0   
+$EndComp
+$Comp
+L ddr4_udimm:VDDSPD #U0103
+U 1 1 613252D2
+P 14600 8000
+F 0 "#U0103" H 14600 7800 50  0001 C CNN
+F 1 "VDDSPD" H 14653 8042 50  0000 L CNN
+F 2 "" H 14600 7800 50  0001 C CNN
+F 3 "" H 14600 7800 50  0001 C CNN
+	1    14600 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ddr4_udimm:VSS #U0109
+U 1 1 6132565D
+P 14600 9400
+F 0 "#U0109" H 14600 9200 50  0001 C CNN
+F 1 "VSS" H 14547 9442 50  0000 R CNN
+F 2 "" H 14600 9200 50  0001 C CNN
+F 3 "" H 14600 9200 50  0001 C CNN
+	1    14600 9400
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	14600 9400 14600 9250
+Wire Wire Line
+	14450 9100 14450 9250
+Wire Wire Line
+	14450 9250 14600 9250
+Connection ~ 14600 9250
+Wire Wire Line
+	14600 9250 14600 9100
+Wire Wire Line
+	14200 8650 14000 8650
+Wire Wire Line
+	14000 8650 14000 8600
+Wire Wire Line
+	14200 8750 13750 8750
+Wire Wire Line
+	13750 8750 13750 8600
+Wire Wire Line
+	14600 8250 14600 8200
+Wire Wire Line
+	14000 8300 14000 8200
+Wire Wire Line
+	14000 8200 14600 8200
+Connection ~ 14600 8200
+Wire Wire Line
+	14600 8200 14600 8100
+Wire Wire Line
+	13750 8300 13750 8100
+Wire Wire Line
+	13750 8100 14600 8100
+Connection ~ 14600 8100
+Wire Wire Line
+	14600 8100 14600 8000
+Text GLabel 13550 8650 0    50   Input ~ 0
+SDA
+Text GLabel 13550 8750 0    50   Input ~ 0
+SCL
+Text GLabel 15400 8850 2    50   Input ~ 0
+EVENT_n
+Text GLabel 15400 8700 2    50   Input ~ 0
+A2
+Text GLabel 15400 8600 2    50   Input ~ 0
+A1
+Text GLabel 15400 8500 2    50   Input ~ 0
+A0
+Wire Wire Line
+	15400 8500 15050 8500
+Wire Wire Line
+	15050 8600 15400 8600
+Wire Wire Line
+	15400 8700 15050 8700
+Wire Wire Line
+	15050 8850 15400 8850
+Wire Wire Line
+	13550 8650 14000 8650
+Connection ~ 14000 8650
+Wire Wire Line
+	13550 8750 13750 8750
+Connection ~ 13750 8750
+Wire Notes Line
+	15850 7500 13250 7500
+Wire Notes Line
+	13250 7500 13250 9700
+Text Notes 14650 7750 2    118  ~ 24
+TEMPERATURE
+$EndSCHEMATC
