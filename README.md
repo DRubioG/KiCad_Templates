@@ -10,4 +10,6 @@ RAM Memory
 - UDIMM
     - [DDR3_UDIMM](/DDR3_UDIMM)
     - [DDR4_UDIMM](/DDR4_UDIMM)
-
+SSD
+- M.2
+    - [TYPE 2280](/SSD_M2_TYPE2280)
