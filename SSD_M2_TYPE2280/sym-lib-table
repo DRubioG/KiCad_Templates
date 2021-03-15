@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ssd_m2)(type Legacy)(uri C:/Users/XD/Desktop/intermedio/ssd_m2.lib)(options "")(descr ""))
+  (lib (name ssd_m2_type_2280)(type Legacy)(uri ${KIPRJMOD}/ssd_m2_type_2280.lib)(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SSD_M2_TYPE2280)(type KiCad)(uri ${KIPRJMOD}/SSD_M2_TYPE2280.pretty)(options "")(descr ""))
+)
