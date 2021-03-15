@@ -12,7 +12,10 @@
 [DDR4_SODIMM](DDR4_SODIMM.sch)
 
 ## Library
-[DDR4_SODIMM](library.sch)
+[DDR4_SODIMM](library.lib)
 
 ## Board
 [DDR4_SODIMM](DDR4_SODIMM.kicad_pcb)
+
+## ZIP
+[DDR3_SODIMM](DDR3_SODIMM.zip)
