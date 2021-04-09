@@ -3,7 +3,7 @@
 ### 3D
 ![DDR3_SODIMM](3D_DDR3_SODIMM.png)
 ### Board image
-![DDR3_SODIMM](meta/brd.png)
+![DDR3_SODIMM](meta/brd.PNG)
 
 ## Project
 [DDR3_SODIMM](DDR3_SODIMM.pro)
