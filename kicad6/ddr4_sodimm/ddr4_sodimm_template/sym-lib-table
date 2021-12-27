@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ddr4_sodimm_pinout")(type "KiCad")(uri "${KIPRJMOD}/ddr4_sodimm_pinout.kicad_sym")(options "")(descr ""))
+)
